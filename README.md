@@ -33,7 +33,7 @@ Spring provides a template class called `RestTemplet` that can consume a RESTful
 
 **there are two modules in this guide**
 
-the first module is called [quotes](RESTfulWebService/quoters)
+the first module is called [quotes](https://github.com/spring-guides/quoters)
 
 this module is a simple SpringBoot project that can return quotes
 
