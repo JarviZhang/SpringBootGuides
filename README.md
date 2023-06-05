@@ -26,6 +26,9 @@ return
 {"id":2,"content":"Hello, User!"}
 ```
 
+## [Scheduling Tasks](https://spring.io/guides/gs/scheduling-tasks/)
+create an application with a scheduled task by `awaitility` dependency
+
 ## Consuming a RESTful Web Service
 this guide is about how to consuming a RESTful Web Service
 
